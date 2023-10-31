@@ -1,1 +1,1 @@
-[https://users.aalto.fi/~hakkinj7/]
+https://users.aalto.fi/~hakkinj7/
